@@ -1,0 +1,29 @@
+body {
+  background-color: powderblue;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.indexList {
+  font-size: 22px;
+}
+
+#naviBurger, #titleBurger {
+  color: red;
+}
+
+#naviLasagna, #titleLasagna {
+  color: whitesmoke;
+}
+
+#naviPizza, #titlePizza {
+  color: blue;
+}
+
+.list {
+  font-style: italic;
+}
+
+h1 {
+  color: indigo;
+  font-style: italic;
+}
