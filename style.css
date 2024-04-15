@@ -5,6 +5,9 @@ body {
 
 .indexList {
   font-size: 22px;
+  background-color: green;
+  width: fit-content;
+  border: 3px solid black;
 }
 
 #naviBurger, #titleBurger {
@@ -21,9 +24,17 @@ body {
 
 .list {
   font-style: italic;
+  border: 3px solid red;
+  width: fit-content;
+  text-align: center;
+  background-color: teal;
+  color: white;
 }
 
 h1 {
-  color: indigo;
+  color: maroon;
+  font-weight: bold;
   font-style: italic;
+  text-align: center;
+  background-color: orange;
 }
